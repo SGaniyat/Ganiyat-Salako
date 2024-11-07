@@ -1,6 +1,6 @@
 
 
- # Hi there, I'm [Ganiyat Salako] 👋 
+ # Hi there, I'm Ganiyat Salako 👋 
 About Me:
 
 I am a Chartered Accountant with over 10 years of post-qualification experience. I have worked across various sectors, including Telecom, Energy and Power, and, most recently, the Health Sector, where I served as a Senior Accountant and Finance Manager.
