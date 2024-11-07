@@ -3,6 +3,7 @@
 
 
 🎓 About Me:
+
 I am a Chartered Accountant with over 10 years of post-qualification experience. I have worked across various sectors, including Telecom, Energy and Power, and, most recently, the Health Sector, where I served as a Senior Accountant and Finance Manager.
 
 My core specialization is financial reporting, aimed at helping management make insightful, structured decisions. As technology continues to evolve, I recognize the need to enhance my career by incorporating data analysis and visualization. I am passionate about transforming complex datasets into actionable insights, enabling organizations to make data-driven decisions, and simplifying the data storytelling process.
