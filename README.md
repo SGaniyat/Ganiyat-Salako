@@ -10,8 +10,8 @@ My core specialization is financial reporting, aimed at helping management make 
 ### 💼 Professional Skills:
 
 * Financial Reporting: Extensive experience in financial reporting, including proficiency in International Financial Reporting Standards (IFRS).
-*Data Analysis & Visualization: Proficient in tools such as Excel, Power BI, and SQL.
-*Data Transformation: Skilled in converting raw data into clear, insightful dashboards and reports.
+* Data Analysis & Visualization: Proficient in tools such as Excel, Power BI, and SQL.
+* Data Transformation: Skilled in converting raw data into clear, insightful dashboards and reports.
 
 ### 📈 Current Focus:
 - Enhancing my skills in **data analysis** and **financial Statement Reporting**.
