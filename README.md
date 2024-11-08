@@ -26,7 +26,7 @@ My core specialization is financial reporting, aimed at helping management make 
 
 📚 Education & Certification:
 
-* B.Sc. Accounting
+* HND: Accounting
 * ACA: ICAN
 * FMVA: Corporate Finance Institute (CFI)
 * Data Analyst: LITA
