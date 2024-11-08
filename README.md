@@ -20,16 +20,16 @@ My core specialization is financial reporting, aimed at helping management make 
 
 ### 🏆 Certifications:
 
-*Associate Chartered Accountant (ACA): Institute of Chartered Accountants of Nigeria (ICAN)
-*Financial Modeling and Valuation Analyst (FMVA): Corporate Finance Institute (CFI)
-*Data Analyst: Incubator Hub (LITA)
+* Associate Chartered Accountant (ACA): Institute of Chartered Accountants of Nigeria (ICAN)
+* Financial Modeling and Valuation Analyst (FMVA): Corporate Finance Institute (CFI)
+* Data Analyst: Incubator Hub (LITA)
 
 📚 Education & Certification:
 
-*B.Sc. Accounting
-*ACA: ICAN
-*FMVA: Corporate Finance Institute (CFI)
-*Data Analyst: LITA
+* B.Sc. Accounting
+* ACA: ICAN
+* FMVA: Corporate Finance Institute (CFI)
+* Data Analyst: LITA
 
 ### 📫 How to Reach Me:
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/ganiyatsalako367?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrBu%2BfrTrTfqdxcdw6kUo9A%3D%3D))
